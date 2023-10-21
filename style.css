@@ -1,0 +1,46 @@
+
+/* comment ctrl +/ */
+
+/* * means all, asterisk means all */
+* {
+	font-family: "Roboto", sans-serif;
+	font-size: 1rem;
+
+
+	}
+
+	
+h1, p {
+
+	font-family: "Montserrat", sans-serif ; 
+	/*	nag change na lololol*/
+}
+
+
+
+#profile {
+
+	width: 10%;
+	border-radius: 50%;
+	
+
+	
+}
+
+body {
+
+	background-color: #A8FFFF;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%23d36868' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%23c9bdbd' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%23d06f74' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%239b8a8b' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%23c43f5a' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%23ad8388' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%23d47896' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%23c3b9bb' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%23f1e1e9' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%2396527a' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%23dddbdd' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%23904d90' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
+	background-attachment: fixed;
+	background-size: cover;;
+}
+
+#landing {
+	height: 80vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	
+
+}
